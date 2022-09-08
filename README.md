@@ -1,6 +1,6 @@
 ### [John Sim][website] @ ⚙️Github
 
-[![Website](https://img.shields.io/website?label=bitmapbytes.com&style=for-the-badge&url=https%3A%2F%bitmapbytes.com)](https://bitmapbytes.com)
+[![Website](https://img.shields.io/website?label=bitmapbytes.com&style=for-the-badge&url=https%3A%2F%2Fbitmapbytes.com)](https://bitmapbytes.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jrsim_uix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjrsim_uix&screen_name=jrsim_uix)
 
 
